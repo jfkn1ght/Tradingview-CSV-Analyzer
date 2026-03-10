@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TradingView CSV Analyzer</title>
+
+<link rel="stylesheet" href="css/styles.css">
+
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="upload-container">
+    <button class="upload-btn" onclick="document.getElementById('csvFileInput').click()">
+        Upload CSV File
+    </button>
+
+    <button class="export-btn disabled" onclick="exportCombinedCSV()">
+        Export Processed Trades
+    </button>
+
+    <input type="file" id="csvFileInput" accept=".csv" />
+
+    <div id="metrics-container"></div>
+</div>
+
+<div id="calendar-container"></div>
+
+<div id="column-selector"></div>
+
+<div id="table-container"></div>
+
+
+<script src="js/tradeCombiner.js"></script>
+<script src="js/table.js"></script>
+<script src="js/metrics.js"></script>
+<script src="js/calendar.js"></script>
+<script src="js/export.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
