@@ -41,9 +41,12 @@ function generateCalendar() {
         const signal =
             (fullRows[i][signalIndex] || "").toLowerCase();
 
+        const durationIndex = header.indexOf("Trade Duration");
+
         const tradeObj = {
             pnl,
-            signal
+            signal,
+            duration: fullRows[i][durationIndex]
         };
 
         if (!dailyTrades[dayKey]) dailyTrades[dayKey] = [];
@@ -270,6 +273,11 @@ function generateCalendar() {
                         ${monthStats.longTrades} / ${monthStats.shortTrades}
                         (${monthStats.totalTrades ? Math.round(monthStats.longTrades / monthStats.totalTrades * 100) : 0}% Long)
                     </div>
+                </div>
+
+                <div class="metric-card">
+                    <div class="metric-title">Avg Duration</div>
+                    <div class="metric-value">${monthStats.avgDuration}</div>
                 </div>
 
             </div>
