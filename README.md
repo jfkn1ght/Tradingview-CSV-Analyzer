@@ -47,9 +47,9 @@ Includes key trading statistics:
 
 Visual trading calendar showing:
 
-- **Daily P&L**
-- **Number of trades**
-- **Daily metrics**
+- Daily P&L
+- Number of trades
+- Daily metrics
   - Win rate
   - Profit factor
   - Drawdown
@@ -57,8 +57,8 @@ Visual trading calendar showing:
 
 Also includes:
 
-- **Weekly summaries**
-- **Monthly performance dashboards**
+- Weekly summaries
+- Monthly performance dashboards
 - Expand / collapse months
 
 ---
@@ -66,7 +66,7 @@ Also includes:
 ### Interactive Trade Table
 
 - View all processed trades
-- **Toggle column visibility**
+- Toggle column visibility
 - Show more rows dynamically
 - Clean dark-mode table design
 
@@ -79,20 +79,14 @@ Export the processed dataset as a CSV including:
 - Combined entry/exit trades
 - Calculated duration
 - Cumulative P&L
-- Only **currently visible columns**
-
-Useful for:
-
-- Excel analysis
-- Python notebooks
-- Further research
+- Only currently visible columns
 
 ---
 
 ## Example Workflow
 
-1. Run a **TradingView strategy backtest**
-2. Export **List of Trades → CSV**
+1. Run a TradingView strategy backtest
+2. Export List of Trades → CSV
 3. Upload the CSV into this app
 4. Instantly explore:
    - Trade metrics
@@ -103,10 +97,10 @@ Useful for:
 
 ## Tech Stack
 
-- **HTML**
-- **CSS (dark mode UI)**
-- **Vanilla JavaScript**
-- **PapaParse** for CSV parsing
+- HTML
+- CSS (dark mode UI)
+- Vanilla JavaScript
+- PapaParse** for CSV parsing
 
 No frameworks required.
 
