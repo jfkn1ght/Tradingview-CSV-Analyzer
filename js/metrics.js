@@ -56,8 +56,9 @@ function computeStats(tradesArray) {
     tradesArray.forEach(t => {
         const pnl = parseFloat(t.pnl) || 0;
         if (t.signal) {
-            if (t.signal.includes("long")) longTrades++;
-            if (t.signal.includes("short")) shortTrades++;
+            if (t.signal.includes("long") || t.signal.includes("buy")) longTrades++;
+            if (t.signal.includes("short") || t.signal.includes("sell")) shortTrades++;
+
         }
 
         if (t.duration) {
