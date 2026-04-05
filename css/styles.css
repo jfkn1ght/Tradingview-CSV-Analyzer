@@ -265,7 +265,7 @@ tr:nth-child(even) {
     background: #1976c2;
 }
 
-.export-btn {
+.export-btn,.exportPDF-btn {
     padding: 14px 28px;
     font-size: 18px;
     border: none;
@@ -278,13 +278,13 @@ tr:nth-child(even) {
     box-shadow: 0 4px 12px rgba(0,0,0,0.4);
 }
 
-.export-btn:hover {
+.export-btn:hover,.exportPDF-btn:hover {
     transform: translateY(-2px);
     background: linear-gradient(135deg, #4caf50, #388e3c);
 }
 
 /* OPTIONAL: disabled export button */
-.export-btn.disabled {
+.export-btn.disabled,.exportPDF-btn.disabled {
     opacity: 0.5;
     cursor: not-allowed;
 }
@@ -292,4 +292,9 @@ tr:nth-child(even) {
 .metric-value.split {
     font-size: 20px;
     letter-spacing: 1px;
+}
+.pdf-export-mode button,
+.pdf-export-mode input,
+.pdf-export-mode .github-corner {
+    display: none !important;
 }
