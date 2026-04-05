@@ -26,7 +26,8 @@ document.getElementById('csvFileInput').addEventListener('change', function(even
             generateCalendar();
 
             // enable export button
-            document.querySelector(".export-btn").classList.remove("disabled");            
+            document.querySelector(".export-btn").classList.remove("disabled");  
+            document.querySelector(".exportPDF-btn").classList.remove("disabled");                        
         }
     });
 });
