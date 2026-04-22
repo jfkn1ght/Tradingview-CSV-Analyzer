@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="125" height="125">
+	<defs>
+		<image  width="150" height="150" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWEAYAAABska2hAAAAAXNSR0IB2cksfwAABNxJREFUeJzt3GuSE0cUhFHEPmD/q0QE8wjBKEpqDbelTM0588ufzcOU1dWJIzj8fHE8ftvq+PJ1Xl8dzv7O4eXr3lY/n707sKPDzQ+sz3p/0H18gOnARusH1uwH9PjWD5/uK1Pfv/7YDhvs/YZ1+s8z7Y1mn36airquj/fDzx9/vo7vN97J9Aca4D/dbxK+/XhnP8ptfeVRv8muT/WMN2Q9vK/fsGbc+uBpl/MA0PUn7PtPQrYJu8l0PbG/P7B+vYU93rH2ffCF/ELqO50v/MUknBX3Cq3rz9RNwhRpbzy6HtivvWFNPRmnfLU3tq8m7kbXs/rpgXX6R16/Pv6e1nv//vL1sd/6ZrXfv6jfg4Gndf7AuvotfFCBx7jXA2u/N6ep719P6HCRSWgSQg2TEKhhEupJHS4yCU1CqGESAjVMQj2pw0V7P7DuP9keK+0BoOtP1U1CoIZJqCd1uMj/JXyOKQpfgkkI1Dj9iaNvf339W9z4wNr7DSbkz+nRvaGyP5PQBw5qmIRADZNQz+iwgUnoAwc1TEKghkmoZ3TYwCT0gYMaJiFQwyTUMzpsYBL6wEENkxCoYRLqGR02MAl94KCGSQjUuPbAOn+DeX1g3fomNGXv75/H2u/NW3+KbhKahFDDJARqmIQkiZkeemY3CU1CqGESAjVMQpLETA89s5uEJiHUMAmBGiYhSWKmh57ZTUKTEGqYhEANk5AkMdNDz+wmoUkINUxCoIZJSJKY6aFndpPQJIQaJiFQwyQkScz00DO7SWgSQg2TEKhhEpIkZnromd0kNAmhhkkI1DAJSRIzPfTMbhKahFDDJARqmIQkiZkeemY3CU1CqGESAjVMQpLETA89s5uEJiHUMAmBGiYhSWKmh57ZTUKTEGqYhEANk5AkMdNDz+wmoUkINUxCoIZJSJKY6aFn9tUkXE+h10m41Vd7wHz+QP79ddfv3Vfnokd1kxCoYRKSJO5G17O6STjLJGztq3PRo7pJCNQwCUkSd6PrWd0knGUStvbVuehR3SQEapiEJIm70fWsbhLOMglb++pc9KhuEgI1TEKSxN3oelY3CWeZhK19dS56VDcJgRomIUnibnQ9q5uEs0zC1r46Fz2qf34SXnuwmY7AMJOQJHE3up7VTcJZJmFrX52LHtVNQqCGSUiSuBtdz+om4SyTsLWvzkWP6iYhUMMkJEncja5ndZNwlknY2lfnokd1kxCoYRKSJO5G17O6STjLJGztq3PRo7pJCNQwCUkSd6PrWd0knGUStvbVuehR3SQEapiEJIm70fWsbhLOMglb++pc9KhuEgI1TEKSxN3oelY3CWeZhK19dS56VDcJgRomIUnibnQ9q5uEs0zC1r46Fz2qm4RADZOQJHE3up7VTcJZJmFrX52LHtVNQqCGSUiSuBtdz+om4SyTsLWvzkWP6iYhUMMkJEncja5ndZNwlknY2lfnokd1kxCoYRKSJO5G17O6STjLJGztq3PRo7pJCNQwCUkSd6PrWd0knGUStvbVuehR3SQEapiEJIm70fWsbhLOMglb++pc9KhuEgI1TEKSxN3oelY3CWeZhK19dS56VDcJgRomIUnibnQ9q5uEs0zC1r46Fz2qm4RADZOQJHE3up7VTcJZJmFrX52LHtVNQqCGSUiSuBtdz+q/ARRv2/qffKaCAAAAAElFTkSuQmCC"/>
+		<image  width="150" height="21" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAAVEAYAAAD0tcvXAAAAAXNSR0IB2cksfwAAARdJREFUeJzt19GNwjAQANGkHeqhGwSpgiYoEpOIoIgPYoHsMBvP++JGSHcSy16277rhlNLh1kkSXD8urEsaPV+/Sct77PbqXcqaFtYwL6yaag817ctn/61Lq0otLNoA+oWLh7Y87cC+1ROW8lCD0WBXAJ6EdlKXVtVeWK0NJm0BROpp7r3d/ql7EnIQl0hLXQG8FtZ9+bkYB0NSUaWesLZYTt/8Dv9Lx0N74rIDuychB2owGuwKwJNQUhi1n7BaW1q0pwa7fVfdk5ADNxyNdQWQW1i0YXDY9o22xOyw7klYFuaDtdv32D0JOXDD0VhXAJ6EIqEtMTusexKWhflg7fY9dk9CDtxwNNYVwLSwzildj//+QyQp5wE49i5th/yK6QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #007fff } 
+		.s1 { fill: #009500 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m150 114.38v19.87h-150v-19.87z"/>
+	<use id="Layer 1" href="#img2" x="0" y="72"/>
+	<path id="Shape 2" fill-rule="evenodd" class="s0" d="m46.13 23.25l-0.01 13.13-34.5-0.01v-13.12z"/>
+	<path id="Shape 2 copy" fill-rule="evenodd" class="s1" d="m92.63 23.25v13.13l-34.5-0.01v-13.12z"/>
+	<path id="Shape 2 copy 2" fill-rule="evenodd" class="s1" d="m139.5 23.25v13.13l-34.5-0.01v-13.12z"/>
+</svg>
